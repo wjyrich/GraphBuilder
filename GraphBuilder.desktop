@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=GraphBuilder
+Name=GraphBuilder
+Name[zh_CN]=GraphBuilder
+Icon=GraphBuilder
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=GraphBuilder
+Version=1.0
